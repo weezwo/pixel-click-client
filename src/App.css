@@ -1,0 +1,94 @@
+*:focus {
+  outline: none;
+}
+
+.no-sketch {
+  text-align: center;
+}
+
+.sketch-cards-container {
+  width: 80%;
+  margin: auto;
+}
+
+.sketch-card-container {
+  width: 400px;
+  background: white;
+  border-bottom: 1px solid #aaa;
+  margin: 4px auto;
+  padding: 5px;
+}
+
+.sketch-info {
+  padding: 50px;
+  height: 100px;
+  width: 100px;
+  color: #363636;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.full-sketch-info {
+  background: white;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1));
+  width: 580px;
+  margin: 30px auto;
+  line-height: 140%;
+  padding: 10px 10px;
+  text-align: right;
+}
+
+.canvas {
+  background-color: white;
+  width: 600px;
+  height: 400px;
+  margin: auto;
+}
+
+.menus {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.menu {
+  display: inline-block;
+  margin: 0 1%;
+}
+
+select {
+  font-size: 125%;
+  width: 100%;
+  background-color: white;
+}
+
+h3 {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+button {
+  font-size: 125%;
+  background-color: white;
+  border-radius: 5px;
+  border-style: solid;
+}
+
+header {
+  text-align: center;
+}
+
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.nav-item {
+  font-size: 125%;
+  margin: 0 10px;
+}
