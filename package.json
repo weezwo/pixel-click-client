@@ -2,6 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://pixel-click-api.herokuapp.com",
   "engines": {
     "node": "4.7.0",
     "npm": "5.5.1"
