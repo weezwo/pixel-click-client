@@ -25,8 +25,10 @@ class Canvas extends Component {
       method: 'post',
       headers: {'content-type': 'application/json'},
       body: data
-    })
-  this.props.history.push('/sketches')
+    }).then(res => res.json()
+  ).then(responseJSON =>{
+    this.props.history.push('/sketches')
+  })
   }
 
   onReset() {
