@@ -5,7 +5,7 @@ This is a fork (of sorts) of [PixelClick](https://github.com/weezwo/pixel-click)
 
 ## Structure
 
-This fork is comprised of two repositories: pixel-click-client and pixel-click-api. The client is written in React and Redux and proxies to the Rails API.
+This fork is comprised of two repositories: [pixel-click-client](https://github.com/weezwo/pixel-click-client) and [pixel-click-api](https://github.com/weezwo/pixel-click-api). The client is written in React and Redux and proxies to the Rails API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
